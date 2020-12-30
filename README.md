@@ -18,4 +18,4 @@ Run the following commands to get started
 4. Then run Node index.js to start Node.js server
 5. The Node application issues JWT token to client and client stores the JWT in browser cache
 6. Everytime the JWT is sent with the request
-7. Once the user logsout, the JWT is cleared from the browser
+7. Once the user logs out, the JWT is cleared from the browser
